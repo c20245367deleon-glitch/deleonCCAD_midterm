@@ -16,7 +16,7 @@
         }
 
         .sidebar {
-            background: #111827;
+            background: #080808;
             border-right: 1px solid #1f2937;
         }
 
