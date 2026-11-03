@@ -10,7 +10,7 @@
 
     <style>
         body {
-            background: #0f172a;
+            background: #040608;
             color: #f8fafc;
             font-family: Arial, sans-serif;
         }
